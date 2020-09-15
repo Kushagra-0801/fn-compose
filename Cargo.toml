@@ -1,0 +1,12 @@
+[package]
+name = "fn-compose"
+version = "0.1.0"
+authors = ["Kushagra Gupta <kushgpt08@gmail.com>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/Kushagra-0801/fn-compose"
+description = "A small macro for function composition"
+keywords = ["functional-programming", "composition", "function-composition", "macro", "compose"]
+categories = ["no-std", "rust-patterns"]
+
+[dependencies]
